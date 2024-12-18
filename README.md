@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @parshavcodes
+- 👋 Hi, I’m Parshav aka R3DD/R3DD404
 - 👀 I’m interested in Cybersecurity
 - 🌱 I’m currently learning Ethical Hacking
 - 💞️ I’m looking to collaborate on anything related to Cybersec
-- 📫 How to reach me? Find me on any social media handle with the username "parshavcodes"
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I used to think dark mode was just for apps used at night.
 
