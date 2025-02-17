@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Parshav aka R3DD/R3DD404
+- 👋 Hi, I’m Parshav
 - 👀 I’m interested in Cybersecurity
 - 🌱 I’m currently learning Ethical Hacking
 - 💞️ I’m looking to collaborate on anything related to Cybersec
